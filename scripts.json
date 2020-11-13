@@ -2,6 +2,7 @@
   "scripts":[
     {"id":"dae7cd6b0135cd90adf8d7f970f2ae69","name":"Space Control Pro"},
     {"id":"3744dc9757a3bec22552417b320760b5", "name":"Updater"},
-    {"id":"a2439b5d515d554c349a88092823497b", "name":"Software Update"}
+    {"id":"a2439b5d515d554c349a88092823497b", "name":"Software Update"},
+    {"id":"16fe55d76c0b5c1a1ec264f9b7e33a07", "name":"Test "}
   ]
 }
