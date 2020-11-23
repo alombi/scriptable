@@ -1,1 +1,24 @@
-"{\"scripts\":[{\"id\":\"dae7cd6b0135cd90adf8d7f970f2ae69\",\"name\":\"Space Control Pro\",\"author\":\"alombi\"},{\"id\":\"3744dc9757a3bec22552417b320760b5\",\"name\":\"Updater\",\"author\":\"alombi\"},{\"id\":\"a2439b5d515d554c349a88092823497b\",\"name\":\"Software Update\",\"author\":\"alombi\"},{\"id\":\"ad3c610597f19e7f232a2606982e7bf6\",\"name\":\"Strava Widget\",\"author\":\"mvan231\"}]}"
+{
+    "scripts": [
+        {
+            "id": "dae7cd6b0135cd90adf8d7f970f2ae69",
+            "name": "Space Control Pro",
+            "author": "alombi"
+        },
+        {
+            "id": "3744dc9757a3bec22552417b320760b5",
+            "name": "Updater",
+            "author": "alombi"
+        },
+        {
+            "id": "a2439b5d515d554c349a88092823497b",
+            "name": "Software Update",
+            "author": "alombi"
+        },
+        {
+            "id": "ad3c610597f19e7f232a2606982e7bf6",
+            "name": "Strava Widget",
+            "author": "mvan231"
+        }
+    ]
+}
