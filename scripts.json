@@ -19,6 +19,11 @@
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
+        },
+        {
+            "id":"ff3db11343562df02c13c565339bee57",
+            "name":"post-discord-webhook",
+            "author":"alombi"
         }
     ]
 }
