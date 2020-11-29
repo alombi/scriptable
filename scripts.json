@@ -19,12 +19,6 @@
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
-        },
-        {
-            "id":"ad3c610597f19e7f232a2606982e7bf6",
-            "name":"Strava Widget",
-            "author":"mvan231",
-            "source":"https://github.com/mvan231/Scriptable/blob/main/Strava/StravaAPI.js"
         }
     ]
 }
