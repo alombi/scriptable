@@ -19,12 +19,6 @@
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
-        },
-        {
-            "id":"d5584e40797c13c882d73c44982b1458",
-            "name":"Test",
-            "author":"alombi",
-            "source":"https://github.com/alombi/test/blob/main/main.js"
         }
     ]
 }
