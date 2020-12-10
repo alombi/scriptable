@@ -6,11 +6,6 @@
             "author": "alombi"
         },
         {
-            "id": "3744dc9757a3bec22552417b320760b5",
-            "name": "Updater",
-            "author": "alombi"
-        },
-        {
             "id": "a2439b5d515d554c349a88092823497b",
             "name": "Software Update",
             "author": "alombi"
@@ -24,8 +19,7 @@
             "id": "4016d26dbd4f5640ea1124a846ad937a",
             "name": "MEE6 Leaderboard Widget",
             "author": "mvan231",
-            "source":"https://github.com/mvan231/Scriptable/blob/main/MEE6%20LeaderBoard%20Info.js"
+            "source": "https://github.com/mvan231/Scriptable/blob/main/MEE6%20LeaderBoard%20Info.js"
         }
-
     ]
 }
