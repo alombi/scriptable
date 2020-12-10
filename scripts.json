@@ -20,6 +20,11 @@
             "name": "MEE6 Leaderboard Widget",
             "author": "mvan231",
             "source": "https://github.com/mvan231/Scriptable/blob/main/MEE6%20LeaderBoard%20Info.js"
-        }
+        },
+        {
+             "id": "3744dc9757a3bec22552417b320760b5",
+             "name": "Updater",
+             "author": "alombi"
+         }
     ]
 }
