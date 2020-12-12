@@ -14,6 +14,12 @@
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
-        }
+        },
+        {
+             "id": "4016d26dbd4f5640ea1124a846ad937a",
+             "name": "MEE6 Leaderboard Widget",
+             "author": "mvan231",
+             "source": "https://github.com/mvan231/Scriptable/blob/main/MEE6%20LeaderBoard%20Info.js"
+         }
     ]
 }
