@@ -14,6 +14,11 @@
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
+        },
+        {
+            "type":"Widget",
+            "version":"1.0",
+            "source":"https://github.com/mvan231/Scriptable/blob/main/Upcoming%20Calendar%20Indicator/Upcoming%20Calendar%20Indicator.js"        
         }
     ]
 }
