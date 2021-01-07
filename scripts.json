@@ -6,20 +6,15 @@
             "author": "alombi"
         },
         {
-            "id": "a2439b5d515d554c349a88092823497b",
-            "name": "Software Update",
-            "author": "alombi"
-        },
-        {
             "id": "ad3c610597f19e7f232a2606982e7bf6",
             "name": "Strava Widget",
             "author": "mvan231"
         },
         {
-            "id":"38ddc1ba977c11c628db2c17ee75f45b",
-            "author":"alombi",
-            "name":"Shareable Random",
-            "source":"https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"
+            "id": "38ddc1ba977c11c628db2c17ee75f45b",
+            "author": "alombi",
+            "name": "Shareable Random",
+            "source": "https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"
         }
     ]
 }
