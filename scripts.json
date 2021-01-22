@@ -1,1 +1,25 @@
-{"scripts":[{"id":"dae7cd6b0135cd90adf8d7f970f2ae69","name":"Space Control Pro","author":"alombi"},{"id":"ad3c610597f19e7f232a2606982e7bf6","name":"Strava Widget","author":"mvan231"},{"id":"38ddc1ba977c11c628db2c17ee75f45b","author":"alombi","name":"Shareable Random","source":"https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"},{"id":"ea17b9161b33653382f00a35ef615422","name":"This is a test","author":"alombi"},{"id":"494f3bfd21c97b98ad14629bf4245664","name":"Test","author":"alombi"}]}
+{
+    "scripts": [
+        {
+            "id": "dae7cd6b0135cd90adf8d7f970f2ae69",
+            "name": "Space Control Pro",
+            "author": "alombi"
+        },
+        {
+            "id": "ad3c610597f19e7f232a2606982e7bf6",
+            "name": "Strava Widget",
+            "author": "mvan231"
+        },
+        {
+            "id": "38ddc1ba977c11c628db2c17ee75f45b",
+            "author": "alombi",
+            "name": "Shareable Random",
+            "source": "https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"
+        },
+        {
+            "id": "494f3bfd21c97b98ad14629bf4245664",
+            "name": "Test",
+            "author": "alombi"
+        }
+    ]
+}
