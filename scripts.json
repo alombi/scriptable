@@ -9,12 +9,6 @@
 			"id": "ad3c610597f19e7f232a2606982e7bf6",
 			"name": "Strava Widget",
 			"author": "mvan231"
-		},
-		{
-			"id": "1df3fea0cb85a2bb619be2729d643254",
-			"name": "Shareable Random",
-			"author": "alombi",
-			"source": "https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"
 		}
 	]
 }
