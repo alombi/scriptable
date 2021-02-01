@@ -1,6 +1,1 @@
-{"scripts":[{"id":"dae7cd6b0135cd90adf8d7f970f2ae69","name":"Space Control Pro","author":"alombi"},{"id":"ad3c610597f19e7f232a2606982e7bf6","name":"Strava Widget","author":"mvan231"},{"id":"421715c30a89ceaa3a2d8a5647d1ed18","name":"Shareable Random","author":"alombi","source":"https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"},{
-              "id": "4016d26dbd4f5640ea1124a846ad937a",
-              "name": "MEE6 Leaderboard Widget",
-              "author": "mvan231",
-              "source": "https://github.com/mvan231/Scriptable/blob/main/MEE6%20LeaderBoard%20Info.js"
-          }]}
+{"scripts":[{"id":"dae7cd6b0135cd90adf8d7f970f2ae69","name":"Space Control Pro","author":"alombi"},{"id":"ad3c610597f19e7f232a2606982e7bf6","name":"Strava Widget","author":"mvan231"},{"id":"421715c30a89ceaa3a2d8a5647d1ed18","name":"Shareable Random","author":"alombi","source":"https://github.com/shareableHQ/random-widget/blob/main/Shareable%20Random.js"}]}
